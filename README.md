@@ -5,6 +5,12 @@ die es Benutzern ermöglicht, sich zu registrieren, anzumelden und international
 
 ---
 
+
+![QR Code Generator Screenshot](Bilder.png)
+
+
+
+
 ## 🚀 Features
 
 ### 🔐 Authentifizierung
@@ -48,5 +54,5 @@ die es Benutzern ermöglicht, sich zu registrieren, anzumelden und international
 
 ---
 
-## 📂 Projektstruktur (Beispiel)
+
 
